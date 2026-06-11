@@ -1,0 +1,16 @@
+# Proteus backup and temporary files
+*.pdsbak
+*.pdsbk
+*_Backup/
+*.pdsuser
+
+# Arduino build folders and compiled files
+**/build/
+**/bin/
+*.hex
+*.elf
+*.o
+
+# OS specific temporary files
+Thumbs.db
+.DS_Store
